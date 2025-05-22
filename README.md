@@ -61,7 +61,7 @@ Durch dieses Projekt habe ich viel über:
 - Benutzerführung
 - und Fehlerbehebung gelernt.
 
-Ich bin stolz auf das Resultat, weil es **nicht nur technisch funktioniert**, sondern auch optisch durchdacht ist und dem Besucher echten Mehrwert bietet.
+Ich bin stolz auf das Resultat, weil es **nicht nur technisch funktioniert**, sondern auch optisch durchdacht ist und dem Besucher echten Mehrwert bietet und auf die Note 6 war ich auch sehr stolz
 
 ---
 
