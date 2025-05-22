@@ -7,7 +7,7 @@ Ziel war es, eine verständliche Anlaufstelle für Anfänger zu schaffen, die ei
 Dies war ein Projekt in dem Modul 293.
 
 
----
+
 
 ## ✅ Features
 
@@ -20,7 +20,7 @@ Dies war ein Projekt in dem Modul 293.
 - 🌐 Verlinkungen zu allen Seiten über die Hauptnavigation  
 - ✅ HTML & CSS validiert und auf Chrome/Edge getestet
 
----
+
 
 ## 🧭 Steuerung & Aufbau
 
@@ -29,7 +29,7 @@ Dies war ein Projekt in dem Modul 293.
 - Jede Komponentenseite (z. B. RAM, Grafikkarte) ist gleich strukturiert
 - Alle Bilder wurden selbst erstellt (z. B. mit KI, urheberfrei)
 
----
+
 
 ### 💡 Eine Herausforderung:
 
@@ -38,7 +38,7 @@ Aber das sah **visuell zu leer** aus.
 Ich habe dann spontan einen **Infobereich und einen Newsletter** ergänzt – eine Entscheidung, die das gesamte Layout viel ausgewogener gemacht hat.
 Alles Responisve zu machen war für mich auch eine Herausforderung, weil ich es zum ersten Mal machte.
 
----
+
 
 ## 💬 Reflexion
 
@@ -50,7 +50,7 @@ Ich habe gelernt:
 - Responsivität für Mobile/Desktop zu integrieren
 - eine saubere Navigationsstruktur umzusetzen
 
----
+
 
 ## 📚 Fazit
 
