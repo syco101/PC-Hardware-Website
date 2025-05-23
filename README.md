@@ -9,20 +9,20 @@ Dies war ein Projekt in dem Modul 293.
 
 
 
-## ✅ Features
+##  Features
 
-- 🔧 Alle essentiellen PC-Komponenten auf eigenen Unterseiten erklärt  
-- 📱 Responsives Design für Desktop und Mobilgeräte  
-- 🎨 Einheitlicher Header & Footer auf jeder Seite  
-- 📚 Infoseite mit Basiswissen zur Hardware  
-- 👨‍💻 About-Me-Bereich  
-- 📨 Kontaktformular + Infobox + Newsletter im Footer  
-- 🌐 Verlinkungen zu allen Seiten über die Hauptnavigation  
-- ✅ HTML & CSS validiert und auf Chrome/Edge getestet
+-  Alle essentiellen PC-Komponenten auf eigenen Unterseiten erklärt  
+-  Responsives Design für Desktop und Mobilgeräte  
+-  Einheitlicher Header & Footer auf jeder Seite  
+-  Infoseite mit Basiswissen zur Hardware  
+-  About-Me-Bereich  
+-  Kontaktformular + Infobox + Newsletter im Footer  
+-  Verlinkungen zu allen Seiten über die Hauptnavigation  
+-  HTML & CSS validiert und auf Chrome/Edge getestet
 
 
 
-## 🧭 Steuerung & Aufbau
+##  Steuerung & Aufbau
 
 - Navigation über den Haupt-Header
 - Footer zeigt zusätzliche Informationen + Newsletter-Anmeldung
@@ -31,7 +31,7 @@ Dies war ein Projekt in dem Modul 293.
 
 
 
-### 💡 Eine Herausforderung:
+###  Eine Herausforderung:
 
 Der Footer war zuerst nur als Kontaktbereich geplant.  
 Aber das sah **visuell zu leer** aus.  
@@ -40,7 +40,7 @@ Alles Responisve zu machen war für mich auch eine Herausforderung, weil ich es 
 
 
 
-## 💬 Reflexion
+##  Reflexion
 
 Das Projekt war Teil meines Moduls 293 und hat mir geholfen, **Webentwicklung mit HTML & CSS besser zu verstehen**.  
 Ich habe gelernt:
@@ -52,7 +52,7 @@ Ich habe gelernt:
 
 
 
-## 📚 Fazit
+##  Fazit
 
 Durch dieses Projekt habe ich viel über:
 
